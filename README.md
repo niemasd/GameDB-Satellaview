@@ -1,0 +1,2 @@
+# GameDB-Satellaview
+Nintendo Satellaview
